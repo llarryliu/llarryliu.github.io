@@ -35,8 +35,7 @@ Feel free to contact! (liuzb0129@outlook.com)
 
 [Team formation and team impact: The balance between team freshness and repeat collaboration](https://doi.org/10.1016/j.joi.2022.101337)
 
-Meijun Liu, Ajay Jaiswal, Yi Bu, Chao Min, Sijie Yang, **Zhibo Liu**,
-Daniel Acuña, Ying Ding
+Meijun Liu, Ajay Jaiswal, Yi Bu, Chao Min, Sijie Yang, **Zhibo Liu**, Daniel Acuña, Ying Ding
 
 - Based on more than 43 million scientific publications covering more than a half-century of research from Microsoft Academic Graph, this study provides a holistic picture of the current development of article **team freshness** by outlining the temporal evolution of freshness, and its disciplinary distribution.
 </div>
