@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Larry Liu   刘志博"
+  name             : "Larry Liu\n 刘志博"
   avatar           : "images/live_photo.jpg"
   bio              : "\n"
   location         : "Beijing, China"
