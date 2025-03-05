@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi！I am currently a CS Ph.D. student at [the School of Advanced Interdisplinary Sciences, University of Chinese Academy of Sciences](https://sais.ucas.ac.cn/index.php/zh/)(中国科学院大学前沿交叉科学学院), advised by Li Qian(钱力) & (). I achived my bachelor's degree of Big data management and application(大数据管理与应用) at [the Department of Information Science, Peking University](http://www.im.pku.edu.cn/)(北京大学信息管理系), advised by Yi Bu(步一). 
+Hi！I am currently a CS Ph.D. student at [the School of Advanced Interdisplinary Sciences, University of Chinese Academy of Sciences](https://sais.ucas.ac.cn/index.php/zh/)(中国科学院大学前沿交叉科学学院), advised by Li Qian(钱力) and (). I achived my bachelor's degree of Big data management and application(大数据管理与应用) at [the Department of Information Science, Peking University](http://www.im.pku.edu.cn/)(北京大学信息管理系), advised by Yi Bu(步一). 
 
 Holding the question of <span style="color:red; font-weight: bold;">“How can Artificial Intelligence help us make better use of information and do a better job”</span>, my research interest focuses on <span style="color:red; font-weight: bold;">the optimization and application of AI systems</span>, such as LLMs. I also have strong interest in Computer Vision, AI4S and Data-driven Science of Science.
 
@@ -35,7 +35,8 @@ Feel free to contact! (liuzb0129@outlook.com)
 
 [Team formation and team impact: The balance between team freshness and repeat collaboration](https://doi.org/10.1016/j.joi.2022.101337)
 
-Meijun Liu, Ajay Jaiswal, Yi Bu, Chao Min, Sijie Yang, **Zhibo Liu**, Daniel Acuña, Ying Ding
+Meijun Liu, Ajay Jaiswal, Yi Bu, Chao Min, Sijie Yang, **Zhibo Liu**,
+Daniel Acuña, Ying Ding
 
 - Based on more than 43 million scientific publications covering more than a half-century of research from Microsoft Academic Graph, this study provides a holistic picture of the current development of article **team freshness** by outlining the temporal evolution of freshness, and its disciplinary distribution.
 </div>
