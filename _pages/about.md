@@ -24,7 +24,7 @@ Holding the question of <span style="color:red; font-weight: bold;">“How can A
 Feel free to contact! (liuzb0129@outlook.com) 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Enrolled in SAIS, UCAS as a PhD student in Computer science. 
+- *2025.02*: &nbsp;🎉🎉 Enrolled in SAIS, UCAS as a Ph.D. student in Computer science. 
 
 
 # 📝 Publications 
