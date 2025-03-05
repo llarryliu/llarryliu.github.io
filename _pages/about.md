@@ -17,42 +17,62 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi,I am a Ph.D student at the SAIS .....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi！I am currently a CS Ph.D. student at [the School of Advanced Interdisplinary Sciences, University of Chinese Academy of Sciences](https://sais.ucas.ac.cn/index.php/zh/)(中国科学院大学前沿交叉科学学院), advised by Li Qian(钱力) & (). I achived my bachelor's degree of Big data management and application(大数据管理与应用) at [the Department of Information Science, Peking University](http://www.im.pku.edu.cn/)(北京大学信息管理系), advised by Yi Bu(步一). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Holding the question of <span style="color:red; font-weight: bold;">“How can Artificial Intelligence help us make better use of information and do a better job”</span>, my research interest focuses on <span style="color:red; font-weight: bold;">the optimization and application of AI systems</span>, such as LLMs. I also have strong interest in Computer Vision, AI4S and Data-driven Science of Science.
 
+Feel free to contact! (liuzb0129@outlook.com) :)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 Enrolled in SAIS, UCAS as a PhD student in Computer science. 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- Major Publications  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Informetrics 2024</div><img src='images/teamformation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Team formation and team impact: The balance between team freshness and repeat collaboration](https://doi.org/10.1016/j.joi.2022.101337)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Meijun Liu, Ajay Jaiswal, Yi Bu, Chao Min, Sijie Yang, **Zhibo Liu**, Daniel Acuña, Ying Ding
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Based on more than 43 million scientific publications covering more than a half-century of research from Microsoft Academic Graph, this study provides a holistic picture of the current development of article **team freshness** by outlining the temporal evolution of freshness, and its disciplinary distribution.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- Major Publications  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Informetrics 2023</div><img src='images/luckypoints.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Non-linearity between referencing behavior and citation impact: A large-scale, discipline-level analysis](https://doi.org/10.1016/j.joi.2022.101318)
+
+Jialin Liu, Hongkan Chen, **Zhibo Liu**, Yi Bu, Weiye Gu
+
+- In this paper, we reveals **a non-linear relation between referencing behavior and citation impact of scientific publications**, using data of academic articles published in 2005 covered by Microsoft Academic Graph. Two types of patterns are observed, namely inverted-L and -U relations, both presenting the existence of critical points. We further explore the discipline-level differences of such a relationship and how it relates to the characteristics of the discipline itself.
+</div>
+</div>
+
+
+<!-- Minor Publications  -->
+
+<!--
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **农业**
+-->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.7* Excellent Graduate of Beijing. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02 - (now)*, Ph.D. student, School of Advanced Interdisplinary Sciences, University of Chinese Academy of Sciences, Beijing. 
+- *2023.09 - 2024.12*, Master student, School of Economics and Management, University of Chinese Academy of Sciences, Beijing. 
+- *2019.09 - 2023.07*, Undergraduate, Department of Information Science, Peking University, Beijing.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- none for now :)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.03 - 2023.08*, Data Analysis, Apple, Beijing.
+- *2022.11 - 2023.02*, Data Analysis, Founder Securities, Beijing.
+
