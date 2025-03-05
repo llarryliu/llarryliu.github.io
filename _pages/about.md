@@ -30,7 +30,7 @@ Feel free to contact! (liuzb0129@outlook.com)
 # 📝 Publications 
 
 <!-- Major Publications  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Informetrics 2024</div><img src='images/teamformation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Informetrics 2022</div><img src='images/teamformation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Team formation and team impact: The balance between team freshness and repeat collaboration](https://doi.org/10.1016/j.joi.2022.101337)
@@ -42,7 +42,7 @@ Meijun Liu, Ajay Jaiswal, Yi Bu, Chao Min, Sijie Yang, **Zhibo Liu**,
 </div>
 
 <!-- Major Publications  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Informetrics 2023</div><img src='images/luckypoints.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Informetrics 2022</div><img src='images/luckypoints.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Non-linearity between referencing behavior and citation impact: A large-scale, discipline-level analysis](https://doi.org/10.1016/j.joi.2022.101318)
