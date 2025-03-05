@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Larry Liu（刘志博）"
-  avatar           : "images/live_photo.png"
-  bio              : "University of Chinese Academy of Sciences."
+  name             : "Larry Liu\n（刘志博）"
+  avatar           : "images/live_photo.jpg"
+  bio              : #"University of Chinese Academy of Sciences."
   location         : "Beijing, China"
   employer         :
   pubmed           : 

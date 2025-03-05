@@ -21,7 +21,7 @@ Hi！I am currently a CS Ph.D. student at [the School of Advanced Interdisplinar
 
 Holding the question of <span style="color:red; font-weight: bold;">“How can Artificial Intelligence help us make better use of information and do a better job”</span>, my research interest focuses on <span style="color:red; font-weight: bold;">the optimization and application of AI systems</span>, such as LLMs. I also have strong interest in Computer Vision, AI4S and Data-driven Science of Science.
 
-Feel free to contact! (liuzb0129@outlook.com) :)
+Feel free to contact! (liuzb0129@outlook.com) 
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Enrolled in SAIS, UCAS as a PhD student in Computer science. 
