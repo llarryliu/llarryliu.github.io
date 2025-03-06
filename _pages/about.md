@@ -62,7 +62,7 @@ Jialin Liu, Hongkan Chen, **Zhibo Liu**, Yi Bu, Weiye Gu
 
 # 🎖 Honors and Awards
 - *2023.7* Excellent Graduate of Beijing. 
-
+- *2023.7* Excellent Graduate of Peking University. 
 
 # 📖 Educations
 - *2025.02 - (now)*, Ph.D. student, School of Advanced Interdisplinary Sciences, University of Chinese Academy of Sciences, Beijing. 

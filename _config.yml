@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Larry Liu's Homepage"
+title                    : "Zhibo Liu's Homepage"
 description              : "A Ph.D. student at University of Chinese Academy of Sciences."
-repository               : "liuzb0210/liuzb0210.github.io"
+repository               : "llarryliu/llarryliu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Larry Liu （刘志博）"
+  name             : "Zhibo Liu （刘志博）"
   avatar           : "images/live_photo.jpg"
   bio              : "\n"
   location         : "Beijing, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liuzb0210" # e.g., "github username"
+  github           : "llarryliu" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
