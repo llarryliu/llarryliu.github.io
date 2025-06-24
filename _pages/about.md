@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi！I am currently a CS Ph.D. student at [the School of Advanced Interdisplinary Sciences, University of Chinese Academy of Sciences](https://sais.ucas.ac.cn/index.php/zh/)(中国科学院大学前沿交叉科学学院), advised by Li Qian(钱力) and (). I achived my bachelor's degree of Big data management and application(大数据管理与应用) at [the Department of Information Science, Peking University](http://www.im.pku.edu.cn/)(北京大学信息管理系), advised by Yi Bu(步一). 
+Hi！I am currently a doctoral student in CS at [the School of Advanced Interdisplinary Sciences, University of Chinese Academy of Sciences](https://sais.ucas.ac.cn/index.php/zh/), and jointly trained at [CASIA](http://www.ia.cas.cn/), advised by Prof.Liang Wang, Prof.Shu Wu, and Prof.Li Qian. I achived my bachelor's degree of Big data management and application at [the Department of Information Science, Peking University](http://www.im.pku.edu.cn/), advised by Prof.Yi Bu. 
 
 Holding the question of <span style="color:red; font-weight: bold;">“How can Artificial Intelligence help us make better use of information and do a better job”</span>, my research interest focuses on <span style="color:red; font-weight: bold;">the optimization and application of AI systems</span>, such as LLMs. I also have strong interest in Computer Vision, AI4S and Data-driven Science of Science.
 
